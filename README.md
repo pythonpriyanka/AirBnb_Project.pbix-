@@ -1,0 +1,4 @@
+For this Project we chose Airbnb’s of different cities in United State during 2020 and 2023.
+The purpose of the project is to give a Perspective to the owner of a house who potentially willing to renting out a room. Give Insite about  develop an effective pricing strategy that aligns with the local real estate market, considering factors such as property features, neighborhood demand, and guest preferences. The goal is to optimize the property's rental potential while maintaining competitiveness in the market.
+For business Perspective individuals planning to buy a house, the challenge is to identify neighborhoods with high demand and revenue potential. This involves analyzing various factors, including local market trends, property value growth from 2020 to 2023, and key amenities in different areas. The objective is to make informed decisions on where to invest based on future growth prospects and current market dynamics.
+
